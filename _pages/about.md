@@ -98,6 +98,7 @@ Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2024.06 - 2024.09*, Summer Internship, [Blinkfire Analytics, Inc.](https://www.blinkfire.com/), Chicago, US.<br />
 - *2020.06 - 2020.12*, Research Intern, [Information Processing Lab](https://ipl-uw.github.io/index.html), Seattle, US.<br />
   <span style="color:grey">- Topic: Hierarchical pose classification for infant action analysis and mental development assessment.</span><br />
   <span style="color:grey">- Advisors: [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/).</span>
