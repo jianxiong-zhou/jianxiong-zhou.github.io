@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Jianxiong Zhou's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,42 +17,95 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+**Greetings from Evanston.** 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a third-year Ph.D. candidate at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). My current research interests lie in embodied AI, specifically <ins>**active visual recognition**</ins>, which integrates intelligent control strategies into the visual recognition process to address various recognition challenges.
+I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *vision-language models*, *continual learning*, and *few-sample learning*.
 
+In addition to embodied AI, I have also developed a strong interest in other real-world vision challenges, including medical image/video analysis, anomaly detection, temporal action localization, and micro-expression analysis. 
+
+My detailed resume/CV is [here](./files/JianxiongZhou_Resume.pdf) (last updated on June 2024).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 Our paper *Outlier-Probability-Based Feature Adaptation for Robust Unsupervised Anomaly Detection on Contaminated Training Data* has been accepted by IEEE Transactions on Circuits and Systems for Video Technology!
+- *2024.02*: &nbsp;🎉🎉 Our paper *Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations* has been accepted by CVPR 2024!
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06 (expected)*, Ph.D. cadidate in Electrical Engineering, advised by [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/), Northwestern University.
+- *2019.09 - 2021.03*, M.S. in Electrical Engineering, advised by [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/), University of Washington.
+- *2015.09 - 2019.07*, B.S. in Information Engineering, Shanghai Jiao Tong University. 
 
-# 💬 Invited Talks
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations](https://arxiv.org/pdf/2311.17938.pdf)
+
+Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
+
+[**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
+[**Video**]() <strong><span class='' data=''></span></strong>
+- Investigate CLIP's limitations in embodied perception scenarios, emphasizing diverse viewpoints and occlusion degrees.
+- Propose an active agent to mitigate CLIP's limitations, aiming for active open-vocabulary recognition.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/overview/TCSVT24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Outlier-Probability-Based Feature Adaptation for Robust Unsupervised Anomaly Detection on Contaminated Training Data](https://ieeexplore.ieee.org/document/10542974)
+
+**Jianxiong Zhou**, Ying Wu
+
+- Propose a robust unsupervised anomaly detection method OPFA that can mitigate the influence of contaminated training data and improve the detection of anomalous samples.
+- OPFA improves features by contracting normal features and contrasting normal features with outlier features, allowing it to outperform other methods in contaminated data scenarios.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRL 2024</div><img src='images/overview/PRL24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Micro-expression spotting with a novel wavelet convolution magnification network in long videos](https://www.sciencedirect.com/science/article/pii/S0167865524000035)
+
+**Jianxiong Zhou**, Ying Wu
+
+- Our approach combines wavelet decomposition and a learnable motion magnification module to enhance the optical flow features of micro-expressions, making them easy to detect.
+- We design a selective magnification attention module to suppress background disturbances and highlight MEs. The ablation study and visualization results show that it works as expected.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/overview/wacv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Temporal Feature Enhancement Dilated Convolution Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Zhou_Temporal_Feature_Enhancement_Dilated_Convolution_Network_for_Weakly-Supervised_Temporal_Action_WACV_2023_paper.pdf)
+
+**Jianxiong Zhou**, Ying Wu
+
+[**Supplementary**](./files/wacv23-supp.pdf) <strong><span class='' data=''></span></strong> | 
+[**Poster**](./files/wacv23-poster.pdf) <strong><span class='' data=''></span></strong>
+- The proposed TFE-DCN has an enlarged receptive field that covers a long temporal span to observe the full dynamics of action instances, making it powerful to capture temporal dependencies between snippets.
+- The Modality Enhancement Module can enhance RGB features with enhanced optical flow features to make the overall features suitable for the WTAL task.
+</div>
+</div>
+
+- [Hierarchical Pose Classification for Infant Action Analysis and Mental Development Assessment](https://ieeexplore.ieee.org/abstract/document/9415088), **Jianxiong Zhou**, Zhongyu Jiang, Jang-Hee Yoo, and Jenq-Neng Hwang, accepted by International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021.
+
+- [State‐of‐charge estimation for LiNi0. 6Co0. 2Mn0. 2O2/graphite batteries using the compound method with improved extended Kalman filter and long short‐term memory network](https://onlinelibrary.wiley.com/doi/full/10.1002/er.6234), Shuai Xu, **Jianxiong Zhou**, Fei Zhou, and Yuchen Liu, accepted by International Journal of Energy Research, 2021.
+
+- [State-of-charge estimation of lithium-ion batteries based on improved H infinity filter algorithm and its novel equalization method](https://www.sciencedirect.com/science/article/pii/S0959652620352240), Zhenggang Chen, **Jianxiong Zhou**, Fei Zhou, and Shuai Xu, accepted by Journal of Cleaner Production, 2021.
+
+- [Unfolded coprime planar array for 2D direction of arrival estimation: An aperture-augmented perspective](https://ieeexplore.ieee.org/abstract/document/8344118), Wang Zheng, Xiaofeng Zhang, Le Xu, and **Jianxiong Zhou**, accepted by IEEE Acess, 2018.
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.06 - 2020.12*, Research Intern, [Information Processing Lab](https://ipl-uw.github.io/index.html), Seattle, US.<br />
+  <span style="color:grey">- Topic: Hierarchical pose classification for infant action analysis and mental development assessment.</span><br />
+  <span style="color:grey">- Advisors: [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/).</span>
+- *2019.08 - 2019.09*, Research Intern, Nanjing Zhenchao Technology Co., Ltd., Nanjing, China.<br />
+  <span style="color:grey">- Topic: Intelligent audit for documents.</span>
+
+- # 🎖 Honors and Awards
+- *2019.07* Outstanding Graduate of Shanghai Jiao Tong University.
+- *2019.04* China Electronic Instrument Scholarship, Shanghai Jiao Tong University
+- *2018.04* Honorable Mention, Interdisciplinary Contest in Modeling, COMAP
+- *2016.11* China National Scholarship.
