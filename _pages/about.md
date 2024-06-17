@@ -43,8 +43,8 @@ My detailed resume/CV is [here](./files/JianxiongZhou_Resume.pdf) (last updated 
 
 Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 
-[**Project (coming soon)**]() <strong><span class='' data=''></span></strong> |
-[**Video**]() <strong><span class='' data=''></span></strong>
+[**Supplementary**](./files/cvpr24_supp.pdf) <strong><span class='' data=''></span></strong> |
+[**Video**](./files/cvpr24_supp.mp4) <strong><span class='' data=''></span></strong>
 - Investigate CLIP's limitations in embodied perception scenarios, emphasizing diverse viewpoints and occlusion degrees.
 - Propose an active agent to mitigate CLIP's limitations, aiming for active open-vocabulary recognition.
 </div>
