@@ -43,8 +43,8 @@ My detailed resume/CV is [here](./files/JianxiongZhou_Resume.pdf) (last updated 
 
 Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 
-[**Supplementary**](./files/cvpr24_supp.pdf) <strong><span class='' data=''></span></strong> |
-[**Video**](./files/cvpr24_supp.mp4) <strong><span class='' data=''></span></strong>
+[**Video**](./files/cvpr24_supp.mp4) <strong><span class='' data=''></span></strong> |
+[**Supplementary**](./files/cvpr24_supp.pdf) <strong><span class='' data=''></span></strong>
 - Investigate CLIP's limitations in embodied perception scenarios, emphasizing diverse viewpoints and occlusion degrees.
 - Propose an active agent to mitigate CLIP's limitations, aiming for active open-vocabulary recognition.
 </div>
@@ -78,7 +78,8 @@ Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 
 **Jianxiong Zhou**, Ying Wu
 
-[**Supplementary**](./files/wacv23-supp.pdf) <strong><span class='' data=''></span></strong> | 
+[**Video**](./files/wacv23-supp.mp4) <strong><span class='' data=''></span></strong> |
+[**Supplementary**](./files/wacv23-supp.pdf) <strong><span class='' data=''></span></strong> |
 [**Poster**](./files/wacv23-poster.pdf) <strong><span class='' data=''></span></strong>
 - The proposed TFE-DCN has an enlarged receptive field that covers a long temporal span to observe the full dynamics of action instances, making it powerful to capture temporal dependencies between snippets.
 - The Modality Enhancement Module can enhance RGB features with enhanced optical flow features to make the overall features suitable for the WTAL task.
