@@ -39,7 +39,7 @@ My detailed resume/CV is [here](./files/JianxiongZhou_Resume.pdf) (last updated 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/overview/AOVR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations](https://arxiv.org/pdf/2311.17938.pdf)
+[Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_Active_Open-Vocabulary_Recognition_Let_Intelligent_Moving_Mitigate_CLIP_Limitations_CVPR_2024_paper.html)
 
 Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 
