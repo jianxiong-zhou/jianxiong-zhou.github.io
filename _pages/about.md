@@ -74,7 +74,7 @@ Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/overview/wacv23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Temporal Feature Enhancement Dilated Convolution Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Zhou_Temporal_Feature_Enhancement_Dilated_Convolution_Network_for_Weakly-Supervised_Temporal_Action_WACV_2023_paper.pdf)
+[Temporal Feature Enhancement Dilated Convolution Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/html/Zhou_Temporal_Feature_Enhancement_Dilated_Convolution_Network_for_Weakly-Supervised_Temporal_Action_WACV_2023_paper.html)
 
 **Jianxiong Zhou**, Ying Wu
 
