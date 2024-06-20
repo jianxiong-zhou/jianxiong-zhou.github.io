@@ -94,10 +94,6 @@ Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 
 - [Unfolded coprime planar array for 2D direction of arrival estimation: An aperture-augmented perspective](https://ieeexplore.ieee.org/abstract/document/8344118), Wang Zheng, Xiaofeng Zhang, Le Xu, and **Jianxiong Zhou**, accepted by IEEE Acess, 2018.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
 # 💻 Internships
 - *2024.06 - 2024.09*, Summer Internship, [Blinkfire Analytics, Inc.](https://www.blinkfire.com/), Chicago, US.<br />
 - *2020.06 - 2020.12*, Research Intern, [Information Processing Lab](https://ipl-uw.github.io/index.html), Seattle, US.<br />
