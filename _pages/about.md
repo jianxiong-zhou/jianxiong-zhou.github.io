@@ -24,7 +24,7 @@ I am constantly investigating the challenges inherent to active vision agents in
 
 In addition to embodied AI, I have also developed a strong interest in other real-world vision challenges, including medical image/video analysis, anomaly detection, temporal action localization, and micro-expression analysis. 
 
-My detailed resume/CV is [here](./files/JianxiongZhou_Resume.pdf) (last updated on June 2024).
+My detailed resume/CV is [here](./files/JianxiongZhou_Resume_Sep_2024.pdf) (last updated on September 2024).
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 Our paper *Outlier-Probability-Based Feature Adaptation for Robust Unsupervised Anomaly Detection on Contaminated Training Data* has been accepted by IEEE Transactions on Circuits and Systems for Video Technology!
@@ -95,7 +95,8 @@ Lei Fan, **Jianxiong Zhou**, Xiaoying Xing, Ying Wu
 - [Unfolded coprime planar array for 2D direction of arrival estimation: An aperture-augmented perspective](https://ieeexplore.ieee.org/abstract/document/8344118), Wang Zheng, Xiaofeng Zhang, Le Xu, and **Jianxiong Zhou**, accepted by IEEE Acess, 2018.
 
 # 💻 Internships
-- *2024.06 - 2024.09*, Summer Internship, [Blinkfire Analytics, Inc.](https://www.blinkfire.com/), Chicago, US.<br />
+- *2024.06 - 2024.08*, Summer Internship, [Blinkfire Analytics, Inc.](https://www.blinkfire.com/), Chicago, US.<br />
+  <span style="color:grey">- Topic: Be responsible for various engineering tasks including computer vision related tasks.</span>
 - *2020.06 - 2020.12*, Research Intern, [Information Processing Lab](https://ipl-uw.github.io/index.html), Seattle, US.<br />
   <span style="color:grey">- Topic: Hierarchical pose classification for infant action analysis and mental development assessment.</span><br />
   <span style="color:grey">- Advisors: [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/).</span>
