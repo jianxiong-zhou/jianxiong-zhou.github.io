@@ -19,10 +19,10 @@ redirect_from:
 
 **Greetings from Evanston.** 
 
-I am currently a third-year Ph.D. candidate at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). My current research interests lie in embodied AI, specifically <ins>**active visual recognition**</ins>, which integrates intelligent control strategies into the visual recognition process to address various recognition challenges.
-I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *vision-language models*, *continual learning*, and *few-sample learning*.
+I am currently a fourth-year Ph.D. student at Northwestern University under the supervision of [Prof. Ying Wu](http://users.ece.northwestern.edu/~yingwu/). I am interested in computer vision, multi-modality, embodied AI, and vision-language models. My current research areas are <ins>**multi-modality**</ins> and <ins>**embodied AI**</ins>, especially active visual recognition with vision-language understanding, which integrates intelligent control strategies into the visual recognition process to solve various recognition challenges.
+I am constantly investigating the challenges inherent to active vision agents in an open-world context. These challenges include, but are not limited to, *multi-modality*, *vision-language models*, and *few-sample learning*.
 
-In addition to embodied AI, I have also developed a strong interest in other real-world vision challenges, including medical image/video analysis, anomaly detection, temporal action localization, and micro-expression analysis. 
+In addition to embodied AI, I also have project experience in other real-world vision challenges, including temporal action localization, anomaly detection, and medical image analysis. 
 
 My detailed resume/CV is [here](./files/JianxiongZhou_Resume_Sep_2024.pdf) (last updated on September 2024).
 
